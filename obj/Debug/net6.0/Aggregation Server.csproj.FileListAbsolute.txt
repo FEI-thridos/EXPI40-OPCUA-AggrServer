@@ -1,0 +1,26 @@
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Debug\net6.0\Aggregation Server.exe
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Debug\net6.0\Quickstarts.AggregationServer.Config.xml
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Debug\net6.0\Aggregation Server.dll.config
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Debug\net6.0\Aggregation Server.deps.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Debug\net6.0\Aggregation Server.runtimeconfig.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Debug\net6.0\Aggregation Server.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Debug\net6.0\Aggregation Server.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Debug\net6.0\Opc.Ua.Client.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Debug\net6.0\Opc.Ua.Configuration.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Debug\net6.0\Opc.Ua.Core.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Debug\net6.0\Opc.Ua.Security.Certificates.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Debug\net6.0\Opc.Ua.Server.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Debug\net6.0\Aggregation Server.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Debug\net6.0\Aggregation Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Debug\net6.0\Aggregation Server.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Debug\net6.0\Aggregation Server.AssemblyInfo.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Debug\net6.0\Aggregation Server.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Debug\net6.0\Aggregation Server.csproj.CopyComplete
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Debug\net6.0\Aggregation Server.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Debug\net6.0\refint\Aggregation Server.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Debug\net6.0\Aggregation Server.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Debug\net6.0\Aggregation Server.genruntimeconfig.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Debug\net6.0\ref\Aggregation Server.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Debug\net6.0\Model\AggregationModel.PredefinedNodes.uanodes

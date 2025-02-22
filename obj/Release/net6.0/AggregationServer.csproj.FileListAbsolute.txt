@@ -1,0 +1,78 @@
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Release\net6.0\AggregationServer.exe
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Release\net6.0\Quickstarts.AggregationServer.Config.xml
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Release\net6.0\Model\AggregationModel.PredefinedNodes.uanodes
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Release\net6.0\AggregationServer.dll.config
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Release\net6.0\AggregationServer.deps.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Release\net6.0\AggregationServer.runtimeconfig.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Release\net6.0\AggregationServer.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Release\net6.0\AggregationServer.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Release\net6.0\Opc.Ua.Client.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Release\net6.0\Opc.Ua.Configuration.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Release\net6.0\Opc.Ua.Core.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Release\net6.0\Opc.Ua.Security.Certificates.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\bin\Release\net6.0\Opc.Ua.Server.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Release\net6.0\AggregationServer.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Release\net6.0\AggregationServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Release\net6.0\AggregationServer.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Release\net6.0\AggregationServer.AssemblyInfo.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Release\net6.0\AggregationServer.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Release\net6.0\AggregationServer.csproj.CopyComplete
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Release\net6.0\AggregationServer.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Release\net6.0\refint\AggregationServer.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Release\net6.0\AggregationServer.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Release\net6.0\AggregationServer.genruntimeconfig.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\aggr\AggregationServer\obj\Release\net6.0\ref\AggregationServer.dll
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\bin\Release\net6.0\AggregationServer.exe
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\bin\Release\net6.0\Quickstarts.AggregationServer.Config.xml
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\bin\Release\net6.0\Model\AggregationModel.PredefinedNodes.uanodes
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\bin\Release\net6.0\AggregationServer.dll.config
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\bin\Release\net6.0\AggregationServer.deps.json
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\bin\Release\net6.0\AggregationServer.runtimeconfig.json
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\bin\Release\net6.0\AggregationServer.dll
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\bin\Release\net6.0\AggregationServer.pdb
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\bin\Release\net6.0\Opc.Ua.Client.dll
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\bin\Release\net6.0\Opc.Ua.Configuration.dll
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\bin\Release\net6.0\Opc.Ua.Core.dll
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\bin\Release\net6.0\Opc.Ua.Security.Certificates.dll
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\bin\Release\net6.0\Opc.Ua.Server.dll
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\obj\Release\net6.0\AggregationServer.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\obj\Release\net6.0\AggregationServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\obj\Release\net6.0\AggregationServer.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\obj\Release\net6.0\AggregationServer.AssemblyInfo.cs
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\obj\Release\net6.0\AggregationServer.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\obj\Release\net6.0\AggregationServer.csproj.CopyComplete
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\obj\Release\net6.0\AggregationServer.dll
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\obj\Release\net6.0\refint\AggregationServer.dll
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\obj\Release\net6.0\AggregationServer.pdb
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\obj\Release\net6.0\AggregationServer.genruntimeconfig.cache
+C:\Users\martin.pajpach\Source\repos\AggrOpcUaServer\obj\Release\net6.0\ref\AggregationServer.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\bin\Release\net6.0\AggregationServer.exe
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\bin\Release\net6.0\Quickstarts.AggregationServer.Config.xml
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\bin\Release\net6.0\Model\AggregationModel.PredefinedNodes.uanodes
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\bin\Release\net6.0\AggregationServer.dll.config
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\bin\Release\net6.0\AggregationServer.deps.json
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\bin\Release\net6.0\AggregationServer.runtimeconfig.json
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\bin\Release\net6.0\AggregationServer.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\bin\Release\net6.0\AggregationServer.pdb
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\bin\Release\net6.0\Opc.Ua.Client.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\bin\Release\net6.0\Opc.Ua.Configuration.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\bin\Release\net6.0\Opc.Ua.Core.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\bin\Release\net6.0\Opc.Ua.Security.Certificates.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\bin\Release\net6.0\Opc.Ua.Server.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\obj\Release\net6.0\AggregationServer.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\obj\Release\net6.0\AggregationServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\obj\Release\net6.0\AggregationServer.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\obj\Release\net6.0\AggregationServer.AssemblyInfo.cs
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\obj\Release\net6.0\AggregationServer.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\obj\Release\net6.0\Aggregat.14D89081.Up2Date
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\obj\Release\net6.0\AggregationServer.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\obj\Release\net6.0\refint\AggregationServer.dll
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\obj\Release\net6.0\AggregationServer.pdb
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\obj\Release\net6.0\AggregationServer.genruntimeconfig.cache
+C:\Users\martin.pajpach\Documents\Sukromne\Skola\scirep\Aggr OPC UA Server\obj\Release\net6.0\ref\AggregationServer.dll

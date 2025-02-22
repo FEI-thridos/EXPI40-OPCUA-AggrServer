@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\martin.pajpach\\Documents\\Skola\\doktorandske\\AAS\\aas_server\\aggr\\AggregationServer\\Aggregation Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\martin.pajpach\\Documents\\Skola\\doktorandske\\AAS\\aas_server\\aggr\\AggregationServer\\Aggregation Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\martin.pajpach\\Documents\\Skola\\doktorandske\\AAS\\aas_server\\aggr\\AggregationServer\\Aggregation Server.csproj",
+        "projectName": "Aggregation Server",
+        "projectPath": "C:\\Users\\martin.pajpach\\Documents\\Skola\\doktorandske\\AAS\\aas_server\\aggr\\AggregationServer\\Aggregation Server.csproj",
+        "packagesPath": "C:\\Users\\martin.pajpach\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\martin.pajpach\\Documents\\Skola\\doktorandske\\AAS\\aas_server\\aggr\\AggregationServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\martin.pajpach\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "OPCFoundation.NetStandard.Opc.Ua.Client": {
+              "target": "Package",
+              "version": "[1.4.370.12, )"
+            },
+            "OPCFoundation.NetStandard.Opc.Ua.Configuration": {
+              "target": "Package",
+              "version": "[1.4.370.12, )"
+            },
+            "OPCFoundation.NetStandard.Opc.Ua.Core": {
+              "target": "Package",
+              "version": "[1.4.370.12, )"
+            },
+            "OPCFoundation.NetStandard.Opc.Ua.Server": {
+              "target": "Package",
+              "version": "[1.4.370.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
