@@ -1,4 +1,4 @@
-**Original repository of AASX Server tool - https://github.com/OPCFoundation/UA-.NETStandard-Samples/tree/master/Workshop/Aggregation**
+**Original repository of Aggregation OPC UA Server tool - https://github.com/OPCFoundation/UA-.NETStandard-Samples/tree/master/Workshop/Aggregation**
 
 How to use:
 1. In `./bin/Release/net6.0/Quickstarts.AggregationServer.Config.xml` set up aggregated OPC UA servers in part **ua:Endpoints**:
